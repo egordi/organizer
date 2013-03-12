@@ -1,0 +1,15 @@
+.header {
+	background-color:#CCCCCC;padding:5px 5px;
+}
+
+.sheet {
+	padding:5px 5px;
+}
+
+.headersheet {
+	text-align:right; background-color:#CCCCCC;padding:5px 5px;
+}
+
+.datasheet {
+	text-align:left; padding:5px 5px;
+}
